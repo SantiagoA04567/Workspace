@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: ( #f3f4f5);
+    font-family:  georgia;
+    margin: 0;
+
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial;
+    color:black;
+    font-size: 24px;
+}
+
+header{
+    display: flex;
+    background:linear-gradient(to right,#0ddba7,#33373f);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 89px;
+    margin-right: 10px;
+}
+
+nav a{
+    font-weight: 500px;
+    padding-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a:hover{
+    color: rgb(223, 223, 180);
+}
+
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 1.6em auto;
+    display: grid;
+    gap: 1.6em;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.container>.content, .container>.sidebar, .container>.footer, .container>div {
+    background: rgb(240, 240, 211);
+    padding: 20px;
+    border: 3px solid #540202;
+}
+
+.container>.footer {
+    grid-column: 1/-1;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1e272e;
+    color: #110707;
+}
+
+.container>.content {
+    grid-column: span 3;
+    grid-row: span 4;
+}
+
+.content>.article {
+    background: #282c30;
+    padding: 20px;
+    margin-top: 5px;
+    color: #757575
+}
+
+.content .article h1,
+.content .article p {
+    padding: 10px;
+}
+
+.container>.sidebar {
+    grid-column: span 2;
+    grid-row: span 4;
+    background: #485460;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .sidebar img {
+    display: block;
+    width: 100%;
+    margin-top: 5px;
+}
+
+
+.salpicon{
+    border: 3px solid rgb(23, 2, 58);
+    margin-bottom: 240px;
+    width: 310px;
+    height: 310px;
+}
+.merengon{
+    border: 3px solid rgb(23, 2, 58);
+    margin-bottom: 150px;
+    width: 250px;
+    height: 300px;
+    
+}
+.natilla{
+    border: 3px solid rgb(23, 2, 58);
+    width: 300px;
+    height: 300px;
+  
+}
+
+

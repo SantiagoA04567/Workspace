@@ -1,0 +1,67 @@
+#asco{
+    border-style: dotted;
+    background-color: green;
+    border-color: rgb(6, 255, 151);
+    margin: 10px 29px 30px 40px;
+    padding: 5px 10px 15px 20px;
+
+}
+#miedo{
+    border-style: dotted;
+    background-color: rgb(73, 73, 73);
+    border-color: rgb(50, 80, 80);
+     margin: 30px 50px 50px 40px;
+    padding: 5px 15px 20px 30px;
+}
+#tristesa{
+    border-style: dotted;
+    background-color: darkgrey;
+    border-color: rgb(70, 49, 23);
+     margin: 40px 30px 30px 60px;
+    padding: 6px 29px 38px 31px;
+}
+#aburrimiento{
+    border-style: dotted;
+    background-color: rgb(117, 164, 250);
+    border-color: rgb(45, 79, 83);
+ margin: 23px 45px 24px 46px;
+    padding: 3px 17px 18px 28px;
+}
+#alegria{
+    border-style: solid;
+    background-color: yellow;
+border-color: rgb(243, 154, 37);
+ margin: 135px 363px 385px 473px;
+    padding: 45px 372px 195px 245px;
+}
+#esperanza{
+    border-style: solid;
+    background-color: rgb(113, 243, 113);
+border-color: rgb(11, 238, 170);
+ margin: 17px 37px 39px 40px;
+    padding: 6px 15px 26px 27px;
+}
+#sorpresa{
+    border-style: solid;
+     background-color: rgb(224, 156, 9);
+     border-color: rgb(255, 60, 0);
+      margin: 16px 27px 38px 45px;
+    padding: 7px 17px 18px 26px;
+
+}
+#amor{
+    border-style: solid;
+    background-color: pink;
+border-color: rgb(236, 108, 114);
+ margin: 12px 25px 36px 46px;
+    padding: 8px 13px 14px 39px;
+}
+#enojo{
+    border-style: dotted;
+    background-color: red;
+    border-color: rgb(236, 22, 122);
+     margin: 59px 25px 37px 47px;
+    padding: 6px 132px 153px 203px;
+
+
+}

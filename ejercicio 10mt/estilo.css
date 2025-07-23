@@ -1,0 +1,19 @@
+.contacto {
+      display: inline-block;
+      width: 30%;
+      margin: 10px;
+      
+      background-color: #912b2b;
+    }
+
+    .titulo {
+      color: rgb(38, 71, 32);
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: rgba(255, 97, 24, 0.6);
+    }
+
+div.titulo{
+    color: aqua;
+   
+}
+  

@@ -1,0 +1,27 @@
+#titulo1{
+color: #1014e6;
+border: solid ;
+background-color:  rgb(216, 213, 213);
+border-radius: 40px;
+text-align: center;
+}
+p{
+border: solid;
+border-radius: 40px;
+background-color: bisque;
+}
+.titulo2{
+    border: solid;
+background-color: rgb(189, 228, 235);
+border-radius: 40px;
+color: #444;
+text-align: center;
+}
+.titulo3{
+color: #444;
+    border: solid ;
+background-color: rgb(189, 228, 235);
+border-radius: 40px;
+color: #444;
+text-align: center;
+}

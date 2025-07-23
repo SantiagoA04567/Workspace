@@ -1,0 +1,100 @@
+body{
+    background: ( #f3f4f5);
+    font-family:  sans-serif;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #c8ca3e;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background:linear-gradient(to right,#0ddba7,#33373f);
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.saborescolombia{
+    font-size: 40px;
+    background: linear-gradient(to right, rgb(128, 128, 61),blue,red);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 89px;
+    margin-right: 10px;
+}
+.container{
+    width: 700px;
+    height: 585px;
+    background-color: #2b2a2a;
+    border-radius: 6%;
+    align-items: center;
+    justify-content: center;
+   background-image: url(fondo.jpg);
+   background-size: 50%;
+}
+
+
+
+
+
+.container p{
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    margin: 20px 0;
+}
+
+.container form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    height: 95%;
+}
+
+main{
+    margin-top: 35px;
+    width:650px ;
+    height:95% ;
+    font-size: 23px;
+    color: rgb(227, 227, 175);
+   text-shadow: 6px 6px 6px rgb(2, 86, 40);
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Bienvenida{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    color: rgb(227, 227, 175);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    width: 600px;
+    height: 580px;
+}
+
+nav a{
+    font-weight: 500px;
+    padding-right: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a:hover{
+    color: rgb(223, 223, 180);
+}

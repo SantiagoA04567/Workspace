@@ -1,0 +1,17 @@
+#calendario{
+    border: solid;
+}
+.hora1{
+    background-color: rgb(231, 198, 150);
+    color: azure;
+    display: inline-block;
+}
+.hora2{
+    background-color: green;
+    color: rgb(129, 225, 137);
+    display: inline-block;
+}
+.tare1{
+    background-color: rgb(90, 90, 90);
+    display: inline-block;
+}
