@@ -1,0 +1,27 @@
+Ejercicio 1
+En la consola de JavaScript imprimir 3 numeros y una palabra
+
+Ejercicio 2 
+En la consola de JavaScript imprimir los numeros del 1 al 100---->> usar while o for
+
+Ejercicio 3
+Crear un vector con 7 nombres y mostrarlos con la funcion aler()
+
+Ejercicio 3.1
+Agregar un boton al HTML que lame una funcion en el JavaScript y haga lo mismo pero desde el boton
+
+Ejercicio 4
+mostrar tu nombre en el html cuando presiones un boton
+
+Ejercicio 4.1
+Agregarle el apellido en letra cursiva <i>
+
+Ejercicio 5
+Imprimir una lista de 7 nombres cuando se da click en un boton, usando for y appenChild
+
+
+
+
+
+
+
